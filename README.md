@@ -2,6 +2,9 @@
 Animated Robot made from scratch using C++ and openGL in xCode.
 
 
+Video Link: https://youtu.be/I4pzY4zgOgI
+
+
  Objective of Program:
  + In OpenGl, create an animated 3D hierarchical object.You must restrict the transformations applied to the object so that its behavior is a reasonable facsimile of its real world behavior; i.e. real elbows can't rotate 360 degrees.
  + Smooth, filled and colored 3D polygons must be used.
